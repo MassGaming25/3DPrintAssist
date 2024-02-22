@@ -15,4 +15,5 @@ The price per kilo is based on the prices of Bambu Lab filaments
 - latest version of tkinter
 
 1. Unpack the archive. preferably using WinRar.
-2. Execute the script with Python.
+2. Place your path on line 24.
+3. Execute the script with Python.
